@@ -1,0 +1,22 @@
+.btn{
+    border: 1px solid rgba(red, green, blue, alpha);
+    background:none;
+    padding:10px 20px;
+    font-size:20px;
+    font-family:"monstserrat";
+    cursor: pointer;
+    margin: 30px;
+    
+}
+.btn:hover{
+    color:white;
+    background-color: rgb(red, green, blue)
+}
+.btn:active{
+   color:powderblue;
+   background-color: rgb(red, green, blue)
+}
+
+    
+
+
